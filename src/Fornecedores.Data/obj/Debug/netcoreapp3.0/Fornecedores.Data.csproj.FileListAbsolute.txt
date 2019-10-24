@@ -1,0 +1,11 @@
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\bin\Debug\netcoreapp3.0\Fornecedores.Data.deps.json
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\bin\Debug\netcoreapp3.0\Fornecedores.Data.dll
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\obj\Debug\netcoreapp3.0\Fornecedores.Data.csprojAssemblyReference.cache
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\obj\Debug\netcoreapp3.0\Fornecedores.Data.AssemblyInfoInputs.cache
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\obj\Debug\netcoreapp3.0\Fornecedores.Data.AssemblyInfo.cs
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\bin\Debug\netcoreapp3.0\Fornecedores.Bussines.dll
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\bin\Debug\netcoreapp3.0\Fornecedores.Data.pdb
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\bin\Debug\netcoreapp3.0\Fornecedores.Bussines.pdb
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\obj\Debug\netcoreapp3.0\Fornecedores.Data.csproj.CopyComplete
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\obj\Debug\netcoreapp3.0\Fornecedores.Data.dll
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Data\obj\Debug\netcoreapp3.0\Fornecedores.Data.pdb

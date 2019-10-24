@@ -1,0 +1,8 @@
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\bin\Release\netcoreapp2.2\Fornecedores.Bussines.deps.json
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\bin\Release\netcoreapp2.2\Fornecedores.Bussines.dll
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\bin\Release\netcoreapp2.2\Fornecedores.Bussines.pdb
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Release\netcoreapp2.2\Fornecedores.Bussines.AssemblyInfoInputs.cache
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Release\netcoreapp2.2\Fornecedores.Bussines.AssemblyInfo.cs
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Release\netcoreapp2.2\Fornecedores.Bussines.dll
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Release\netcoreapp2.2\Fornecedores.Bussines.pdb
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Release\netcoreapp2.2\Fornecedores.Bussines.csprojAssemblyReference.cache

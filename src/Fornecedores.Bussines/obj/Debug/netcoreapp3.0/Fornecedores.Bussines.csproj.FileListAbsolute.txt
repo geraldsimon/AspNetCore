@@ -1,0 +1,7 @@
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\bin\Debug\netcoreapp3.0\Fornecedores.Bussines.deps.json
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\bin\Debug\netcoreapp3.0\Fornecedores.Bussines.dll
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\bin\Debug\netcoreapp3.0\Fornecedores.Bussines.pdb
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Debug\netcoreapp3.0\Fornecedores.Bussines.AssemblyInfoInputs.cache
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Debug\netcoreapp3.0\Fornecedores.Bussines.AssemblyInfo.cs
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Debug\netcoreapp3.0\Fornecedores.Bussines.dll
+D:\Meus Documentos\GitHub\EduardoPires\NetCoreMvc\geraldsmon\AppFornecedoresCorp\src\Fornecedores.Bussines\obj\Debug\netcoreapp3.0\Fornecedores.Bussines.pdb
